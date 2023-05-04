@@ -1,0 +1,23 @@
+.chat-message.chatgpt{
+  background-color: rgb(0, 0, 0);
+}
+
+.chat-message-center{
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+
+  padding: 12px;
+
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.message{
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #DAA520 ;
+  font-family: 'Emilys Candy', cursive;
+  font-size: 25px;
+}
