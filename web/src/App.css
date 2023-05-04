@@ -112,14 +112,14 @@
 }
 
 .avatar{
-  background: #7a297a;
+  background: white;
   border-radius: 50%;
   width: 40px;
   height: 40px;
 }
 
 .avatar.chatgpt{
- background: #7a297a;
+  background: #0da37f;
   border-radius: 50%;
   width: 40px;
   height: 40px;
